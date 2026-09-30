@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# YOLO model weights
+*.pt
+
+# YOLO generated results
+runs/
+
+# Test images
+test_images/
