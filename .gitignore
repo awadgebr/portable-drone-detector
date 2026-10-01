@@ -224,3 +224,9 @@ runs/
 
 # Test images
 test_images/
+# Raw downloaded datasets
+raw_dataset/
+
+# Prepared training dataset
+dataset/images/
+dataset/labels/
